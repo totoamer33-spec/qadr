@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://darling-blancmange-0e4b8c.netlify.app/sitemap.xml
